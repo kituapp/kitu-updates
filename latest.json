@@ -1,0 +1,10 @@
+{
+  "schema": 1,
+  "appId": "app.kitu.haxball",
+  "version": "1.1.1",
+  "notes": "Corrección de resolución estirada y zoom con Ctrl + rueda del mouse",
+  "packageUrl": "https://kituapp.github.io/kitu-updates/KituApp_v1.1.1_PAQUETE_ACTUALIZACION_REMOTA.zip",
+  "sha256": "1edb8c31eadf6792ab3f0500a5cf9051052238bf65511e9b9f44d2737296ddb0",
+  "size": 81585,
+  "signature": "OqQ0MmizQr4vrxbWjHuXOqDpgl3swvnm9C2Xz5IF10HpaaJryCWsejoW5KbqSmwBwaT4qxRxcJM6N7vHU96EBA=="
+}
